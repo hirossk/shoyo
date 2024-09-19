@@ -12,5 +12,5 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hirossk/0920shoyo/blob/main/4_Python%E3%81%A7%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90%EF%BC%88%E7%9F%B3%E7%8B%A9%E7%BF%94%E9%99%BD%EF%BC%89.ipynb)
 4_Pythonでデータ分析
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hirossk/0920shoyo/blob/main/5_Gradio(Web%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%95%E3%82%A7%E3%83%BC%E3%82%B9)%E3%81%AE%E5%9F%BA%E6%9C%AC%EF%BC%88%E7%9F%B3%E7%8B%A9%E7%BF%94%E9%99%BD%EF%BC%89.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hirossk/0920shoyo/blob/main/5_Gradio%EF%BC%88Web%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%95%E3%82%A7%E3%83%BC%E3%82%B9%EF%BC%89%E3%81%AE%E5%9F%BA%E6%9C%AC%EF%BC%88%E7%9F%B3%E7%8B%A9%E7%BF%94%E9%99%BD%EF%BC%89.ipynb)
 5_Gradio(Webインタフェース)の基本
